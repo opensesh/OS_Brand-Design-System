@@ -1,7 +1,5 @@
-# OS_Brand-Design-System
-OFFICIAL Open Session Brand Design System
-
 # Open Session Brand Design System
+We are design company building in public, sharing our process and designs with the community along the way.
 
 ## 🌐 Bridging Design & Development
 
