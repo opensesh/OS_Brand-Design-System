@@ -19,6 +19,7 @@ Our Figma file (available on the Open Session Community page) features:
 - Design tokens exported via Token Studio plugin
 
 ## 📁 Repository Structure
+<img width="635" height="486" alt="image" src="https://github.com/user-attachments/assets/d3bdf5fd-5edf-447b-80da-01d44336b111" />
 
 OS_Brand-Design-System/
 ├── assets/                    
