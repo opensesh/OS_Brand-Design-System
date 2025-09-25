@@ -21,32 +21,10 @@ Our Figma file (available on the Open Session Community page) features:
 ## 📁 Repository Structure
 <img width="635" height="486" alt="image" src="https://github.com/user-attachments/assets/d3bdf5fd-5edf-447b-80da-01d44336b111" />
 
-OS_Brand-Design-System/
-├── assets/                    
-│   ├── fonts/                          ← Upload from desktop
-│   ├── illustrations/                   ← Export from Figma
-│   ├── images/                          ← Export from Figma
-│   ├── logos/                           ← Export from Figma
-│   └── textures/                        ← Export from Figma
-│
-├── brand/                     
-│   ├── sections/             
-│   │   ├── OS_art_direction.md         ← Create with master prompt
-│   │   ├── OS_brand_messaging.md       ← Create with master prompt
-│   │   └── OS_brand_identity.md        ← Create with master prompt
-│   │
-│   ├── styling-tokens/       
-│   │   └── Atomic_Brand_Styling.json   ← Export with Token Studio plugin
-│   │
-│   └── brand-guidelines.pdf            ← Export from Figma frames
-│
-└── README.md                            ← You are here!
 
 ## 🚀 Getting Started
 
-**For Designers:** Explore `/brand/sections/` for markdown guidelines, check `/brand/styling-tokens/` to see design decisions as code.
-
-**For Developers:** Start with JSON tokens to understand design values, browse brand guidelines to grasp visual principles.
+Videos and Instructions coming soon, consider this our public brand playground
 
 ## 🤝 Contributing
 
