@@ -76,9 +76,6 @@
     },
     "size": {
       "radius": {
-        "none": {
-          "type": "number"
-        },
         "sm": {
           "value": 2,
           "type": "number"
@@ -113,9 +110,6 @@
         }
       },
       "spacing": {
-        "0": {
-          "type": "number"
-        },
         "1": {
           "value": 1,
           "type": "number"
@@ -281,9 +275,6 @@
       }
     },
     "opacity": {
-      "0": {
-        "type": "number"
-      },
       "5": {
         "value": 5,
         "type": "number"
@@ -514,9 +505,6 @@
         "value": -0.5,
         "type": "number"
       },
-      "normal": {
-        "type": "number"
-      },
       "snug": {
         "value": -0.25,
         "type": "number"
@@ -697,9 +685,6 @@
       },
       "tight": {
         "value": -1,
-        "type": "number"
-      },
-      "normal": {
         "type": "number"
       },
       "snug": {
@@ -884,9 +869,6 @@
         "value": -2,
         "type": "number"
       },
-      "normal": {
-        "type": "number"
-      },
       "snug": {
         "value": -1,
         "type": "number"
@@ -906,16 +888,20 @@
       "value": "false",
       "type": "boolean"
     },
+    "menuOpen": {
+      "value": "false",
+      "type": "boolean"
+    },
     "Width": {
-      "value": 1440,
+      "value": 1280,
       "type": "number"
     },
     "Padding": {
-      "value": "{size.spacing.44}",
+      "value": "{size.spacing.48}",
       "type": "number"
     },
     "Container Size": {
-      "value": 1280,
+      "value": 1184,
       "type": "number"
     }
   },
@@ -932,6 +918,10 @@
       "value": "false",
       "type": "boolean"
     },
+    "menuOpen": {
+      "value": "false",
+      "type": "boolean"
+    },
     "Width": {
       "value": 768,
       "type": "number"
@@ -941,7 +931,7 @@
       "type": "number"
     },
     "Container Size": {
-      "value": 700,
+      "value": 704,
       "type": "number"
     }
   },
@@ -958,16 +948,20 @@
       "value": "false",
       "type": "boolean"
     },
+    "menuOpen": {
+      "value": "false",
+      "type": "boolean"
+    },
     "Width": {
-      "value": 390,
+      "value": 640,
       "type": "number"
     },
     "Padding": {
-      "value": "{size.spacing.16}",
+      "value": "{size.spacing.32}",
       "type": "number"
     },
     "Container Size": {
-      "value": 320,
+      "value": 576,
       "type": "number"
     }
   },
@@ -1062,8 +1056,8 @@
         "opacity.100": "7c0921dfdf4162a66405a6b2730e1963dcd88d9c",
         "size.spacing.-2": "22223f796f179dccf486add52d17b6d255fceccd"
       },
-      "$figmaModeId": "19603:43",
-      "$figmaCollectionId": "VariableCollectionId:19603:52607"
+      "$figmaCollectionId": "VariableCollectionId:19603:52607",
+      "$figmaModeId": "19603:43"
     },
     {
       "id": "typography-mobile",
@@ -1119,8 +1113,8 @@
         "letter spacing.normal": "636e5ee3c4e7db4ee4319448f920079ffdddb7af",
         "letter spacing.snug": "8d25a8772eb26848480d91351357c858234aa5ae"
       },
-      "$figmaModeId": "19603:44",
-      "$figmaCollectionId": "VariableCollectionId:19603:52608"
+      "$figmaCollectionId": "VariableCollectionId:19603:52608",
+      "$figmaModeId": "19603:44"
     },
     {
       "id": "typography-tablet",
@@ -1176,8 +1170,8 @@
         "letter spacing.normal": "636e5ee3c4e7db4ee4319448f920079ffdddb7af",
         "letter spacing.snug": "8d25a8772eb26848480d91351357c858234aa5ae"
       },
-      "$figmaModeId": "19606:47",
-      "$figmaCollectionId": "VariableCollectionId:19603:52608"
+      "$figmaCollectionId": "VariableCollectionId:19603:52608",
+      "$figmaModeId": "19606:47"
     },
     {
       "id": "typography-desktop",
@@ -1233,8 +1227,8 @@
         "letter spacing.normal": "636e5ee3c4e7db4ee4319448f920079ffdddb7af",
         "letter spacing.snug": "8d25a8772eb26848480d91351357c858234aa5ae"
       },
-      "$figmaModeId": "19606:48",
-      "$figmaCollectionId": "VariableCollectionId:19603:52608"
+      "$figmaCollectionId": "VariableCollectionId:19603:52608",
+      "$figmaModeId": "19606:48"
     },
     {
       "id": "breakpoints-desktop",
@@ -1250,10 +1244,11 @@
         "HasMenuItems": "8386bd8522215a16f2d77492817e08c7a6cd7f92",
         "HasButtons": "d851a883d07d978b3ada43d1aac54afcf136a792",
         "HasMenuIcon": "0ff8eab5f5a05becb5b6eb2700e0e6df367b12ef",
-        "Container Size": "bca4998dbcfb1b287fac8db1284d7583b24bc55d"
+        "Container Size": "bca4998dbcfb1b287fac8db1284d7583b24bc55d",
+        "menuOpen": "173a4722ce236ebc20c5f90e79057fbdccb1e00c"
       },
-      "$figmaModeId": "19639:0",
-      "$figmaCollectionId": "VariableCollectionId:19639:22068"
+      "$figmaCollectionId": "VariableCollectionId:19639:22068",
+      "$figmaModeId": "19639:0"
     },
     {
       "id": "breakpoints-tablet",
@@ -1269,10 +1264,11 @@
         "HasMenuItems": "8386bd8522215a16f2d77492817e08c7a6cd7f92",
         "HasButtons": "d851a883d07d978b3ada43d1aac54afcf136a792",
         "HasMenuIcon": "0ff8eab5f5a05becb5b6eb2700e0e6df367b12ef",
-        "Container Size": "bca4998dbcfb1b287fac8db1284d7583b24bc55d"
+        "Container Size": "bca4998dbcfb1b287fac8db1284d7583b24bc55d",
+        "menuOpen": "173a4722ce236ebc20c5f90e79057fbdccb1e00c"
       },
-      "$figmaModeId": "19639:1",
-      "$figmaCollectionId": "VariableCollectionId:19639:22068"
+      "$figmaCollectionId": "VariableCollectionId:19639:22068",
+      "$figmaModeId": "19639:1"
     },
     {
       "id": "breakpoints-mobile",
@@ -1288,10 +1284,11 @@
         "HasMenuItems": "8386bd8522215a16f2d77492817e08c7a6cd7f92",
         "HasButtons": "d851a883d07d978b3ada43d1aac54afcf136a792",
         "HasMenuIcon": "0ff8eab5f5a05becb5b6eb2700e0e6df367b12ef",
-        "Container Size": "bca4998dbcfb1b287fac8db1284d7583b24bc55d"
+        "Container Size": "bca4998dbcfb1b287fac8db1284d7583b24bc55d",
+        "menuOpen": "173a4722ce236ebc20c5f90e79057fbdccb1e00c"
       },
-      "$figmaModeId": "19639:2",
-      "$figmaCollectionId": "VariableCollectionId:19639:22068"
+      "$figmaCollectionId": "VariableCollectionId:19639:22068",
+      "$figmaModeId": "19639:2"
     }
   ],
   "$metadata": {
