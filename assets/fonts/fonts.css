@@ -1,0 +1,62 @@
+/* Webfont declarations for Neue Haas Grotesk families */
+
+@font-face {
+  font-family: 'Neue Haas Grotesk Display Pro';
+  src: url('/design-system-assets/fonts/NeueHassGrotesk_Display/NeueHaasDisplayLight.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Neue Haas Grotesk Display Pro';
+  src: url('/design-system-assets/fonts/NeueHassGrotesk_Display/NeueHaasDisplayRoman.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Neue Haas Grotesk Display Pro';
+  src: url('/design-system-assets/fonts/NeueHassGrotesk_Display/NeueHaasDisplayMedium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Neue Haas Grotesk Display Pro';
+  src: url('/design-system-assets/fonts/NeueHassGrotesk_Display/NeueHaasDisplayBold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk Text Pro';
+  src: url('/design-system-assets/fonts/NeueHassGrotesk_Text/NHaasGroteskTXPro-55Rg.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Neue Haas Grotesk Text Pro';
+  src: url('/design-system-assets/fonts/NeueHassGrotesk_Text/NHaasGroteskTXPro-65Md.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'OffBit';
+  src: url('/design-system-assets/fonts/offbit_Web/OffBit-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'OffBit';
+  src: url('/design-system-assets/fonts/offbit_Web/OffBit-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
